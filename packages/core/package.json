@@ -1,0 +1,13 @@
+{
+    "name": "@seamless/core",
+    "version": "1.0.0",
+    "description": "vanilla forever!",
+    "main": "index.js",
+    "repository": "https://github.com/lopo12123/seamless.git",
+    "author": "lopo <lopo@zju.edu.cn>",
+    "license": "MIT",
+    "private": false,
+    "devDependencies": {
+        "typescript": "^4.8.4"
+    }
+}
